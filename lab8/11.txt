@@ -1,0 +1,3 @@
+Petrov Petr Petrovich 2001 Petersburg 85
+Kuznetsov Kuzma Kuzmich 1999 Kyiv 75
+Sidorov Sidor Sidorovich 2002 NewYork 80

@@ -1,0 +1,6 @@
+5
+Ivanov Ivan Ivanovich 2000 Moscow 90
+Petrov Petr Petrovich 2001 Petersburg 85
+Ivanov Ivan Ivanovich 2000 Moscow 95
+Sidorov Sidor Sidorovich 2002 NewYork 80
+Ivanov Ivan Ivanovich 2000 Moscow 88 
